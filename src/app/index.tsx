@@ -15,6 +15,9 @@ export default function Index() {
         paddingHorizontal: 16,
         backgroundColor: '#f5f5f5',
       }}>
+        <Text>
+          Digite uma palavra em inglês
+        </Text>
       <View
         style={{
           flexDirection: 'row',
